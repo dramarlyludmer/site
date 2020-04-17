@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Dra. Marly Ludmer",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -59,8 +59,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Dra. Marly Ludmer - Ginecologista Recife",
+        "meta_descr": "Consultas e exames, climatério, menopausa, terapia hormonal/fitoterápica, anticoncepção. Conheça!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
