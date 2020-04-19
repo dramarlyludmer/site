@@ -1199,17 +1199,17 @@ section.lazy-placeholder:after {
   top: 0;
   width: 100%;
   height: 100%;
-  background: #554346;
+  background: #fffbc0;
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #fffbc0, #ff658b) !important;
 }
 .cid-rW0zvf0bwH .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
 .cid-rW0zvf0bwH .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0.3 !important;
 }
 .cid-rW0zvf0bwH .mbr-gallery-title {
   font-size: .9em;
@@ -1229,11 +1229,11 @@ section.lazy-placeholder:after {
   left: 0;
   z-index: -1;
   position: absolute;
-  background: #554346 !important;
-  opacity: 0.7;
+  background: #fffbc0 !important;
+  opacity: 0.3;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
+  background: linear-gradient(to left, #fffbc0, #ff658b) !important;
 }
 .cid-rWsXmnGo3r {
   padding-top: 90px;
@@ -1260,6 +1260,7 @@ section.lazy-placeholder:after {
 }
 .cid-rWsXmnGo3r .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-rWsXmnGo3r textarea.form-control {
   min-height: 100px;
