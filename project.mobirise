@@ -63,7 +63,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x117.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "siteUrl": "http://clinicamarlyludmer.com.br/",
     "cookiesAlert": false,
     "gdpr": false,
